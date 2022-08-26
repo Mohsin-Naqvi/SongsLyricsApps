@@ -66,3 +66,7 @@ html {
 pre{
     font-size: large;
 }
+
+#iframeDiv{
+    width: 100%;
+}
